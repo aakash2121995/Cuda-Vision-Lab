@@ -1,0 +1,3232 @@
+imageset_bitbots-2018-iran-02:
+    description: "goalposts only"
+    team: "Bit-Bots"
+    location: "IranOpen 2018"
+
+    frame0248.jpg:
+        dimensions: [640, 360]
+        num_annotations: 3
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 1
+              bbox: [267, 0, 352, 345]
+              center: [309.5, 172.5]
+              dimensions: [85, 345]
+              radius: 107.5
+            - label: "goal"
+              present: true
+              verifications: 1
+              bbox: [336, 100, 526, 208]
+              center: [431.0, 154.0]
+              dimensions: [190, 108]
+              radius: 74.5
+            - label: "goal"
+              present: true
+              verifications: 1
+              bbox: [250, 227, 335, 282]
+              center: [292.5, 254.5]
+              dimensions: [85, 55]
+              radius: 35.0
+
+    frame0249.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [264, 0, 348, 347]
+              center: [306.0, 173.5]
+              dimensions: [84, 347]
+              radius: 107.75
+
+    frame0250.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [263, 0, 346, 348]
+              center: [304.5, 174.0]
+              dimensions: [83, 348]
+              radius: 107.75
+
+    frame0251.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [262, 1, 347, 353]
+              center: [304.5, 177.0]
+              dimensions: [85, 352]
+              radius: 109.25
+
+    frame0252.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [264, 0, 347, 354]
+              center: [305.5, 177.0]
+              dimensions: [83, 354]
+              radius: 109.25
+
+    frame0253.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [262, 0, 343, 352]
+              center: [302.5, 176.0]
+              dimensions: [81, 352]
+              radius: 108.25
+
+    frame0254.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [258, 0, 339, 356]
+              center: [298.5, 178.0]
+              dimensions: [81, 356]
+              radius: 109.25
+
+    frame0255.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [265, 1, 341, 359]
+              center: [303.0, 180.0]
+              dimensions: [76, 358]
+              radius: 108.5
+
+    frame0256.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [278, 0, 343, 355]
+              center: [310.5, 177.5]
+              dimensions: [65, 355]
+              radius: 105.0
+
+    frame0257.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [265, 0, 339, 355]
+              center: [302.0, 177.5]
+              dimensions: [74, 355]
+              radius: 107.25
+
+    frame0258.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [253, 0, 335, 358]
+              center: [294.0, 179.0]
+              dimensions: [82, 358]
+              radius: 110.0
+            - label: "robot"
+              present: true
+              verifications: 1
+              bbox: [271, 126, 471, 209]
+              center: [371.0, 167.5]
+              dimensions: [200, 83]
+              radius: 70.75
+
+    frame0259.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [238, 0, 317, 358]
+              center: [277.5, 179.0]
+              dimensions: [79, 358]
+              radius: 109.25
+
+    frame0260.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [228, 0, 304, 358]
+              center: [266.0, 179.0]
+              dimensions: [76, 358]
+              radius: 108.5
+
+    frame0261.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [208, 0, 284, 358]
+              center: [246.0, 179.0]
+              dimensions: [76, 358]
+              radius: 108.5
+
+    frame0262.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [187, 0, 259, 358]
+              center: [223.0, 179.0]
+              dimensions: [72, 358]
+              radius: 107.5
+
+    frame0263.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [162, 0, 234, 358]
+              center: [198.0, 179.0]
+              dimensions: [72, 358]
+              radius: 107.5
+
+    frame0264.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [139, 0, 211, 358]
+              center: [175.0, 179.0]
+              dimensions: [72, 358]
+              radius: 107.5
+
+    frame0265.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [628, 285, 640, 336]
+              center: [634.0, 310.5]
+              dimensions: [12, 51]
+              radius: 15.75
+
+    frame0266.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [609, 171, 640, 323]
+              center: [624.5, 247.0]
+              dimensions: [31, 152]
+              radius: 45.75
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [92, 1, 159, 358]
+              center: [125.5, 179.5]
+              dimensions: [67, 357]
+              radius: 106.0
+
+    frame0267.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [72, 0, 139, 358]
+              center: [105.5, 179.0]
+              dimensions: [67, 358]
+              radius: 106.25
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [586, 89, 640, 322]
+              center: [613.0, 205.5]
+              dimensions: [54, 233]
+              radius: 71.75
+
+    frame0268.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [558, 8, 638, 322]
+              center: [598.0, 165.0]
+              dimensions: [80, 314]
+              radius: 98.5
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [40, 0, 113, 359]
+              center: [76.5, 179.5]
+              dimensions: [73, 359]
+              radius: 108.0
+
+    frame0269.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [1, 0, 76, 359]
+              center: [38.5, 179.5]
+              dimensions: [75, 359]
+              radius: 108.5
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [527, 3, 623, 322]
+              center: [575.0, 162.5]
+              dimensions: [96, 319]
+              radius: 103.75
+
+    frame0270.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [508, 3, 600, 317]
+              center: [554.0, 160.0]
+              dimensions: [92, 314]
+              radius: 101.5
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [0, 2, 49, 359]
+              center: [24.5, 180.5]
+              dimensions: [49, 357]
+              radius: 101.5
+
+    frame0271.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [492, 2, 579, 312]
+              center: [535.5, 157.0]
+              dimensions: [87, 310]
+              radius: 99.25
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [0, 1, 25, 267]
+              center: [12.5, 134.0]
+              dimensions: [25, 266]
+              radius: 72.75
+
+    frame0272.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [474, 2, 557, 304]
+              center: [515.5, 153.0]
+              dimensions: [83, 302]
+              radius: 96.25
+
+    frame0273.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [455, 0, 537, 292]
+              center: [496.0, 146.0]
+              dimensions: [82, 292]
+              radius: 93.5
+
+    frame0274.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [442, 0, 515, 287]
+              center: [478.5, 143.5]
+              dimensions: [73, 287]
+              radius: 90.0
+
+    frame0275.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [427, 0, 498, 288]
+              center: [462.5, 144.0]
+              dimensions: [71, 288]
+              radius: 89.75
+
+    frame0276.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [408, 0, 480, 287]
+              center: [444.0, 143.5]
+              dimensions: [72, 287]
+              radius: 89.75
+
+    frame0277.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [388, 0, 455, 280]
+              center: [421.5, 140.0]
+              dimensions: [67, 280]
+              radius: 86.75
+
+    frame0278.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [375, 0, 438, 271]
+              center: [406.5, 135.5]
+              dimensions: [63, 271]
+              radius: 83.5
+
+    frame0279.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [361, 0, 426, 262]
+              center: [393.5, 131.0]
+              dimensions: [65, 262]
+              radius: 81.75
+
+    frame0280.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [348, 0, 414, 266]
+              center: [381.0, 133.0]
+              dimensions: [66, 266]
+              radius: 83.0
+
+    frame0281.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [335, 0, 399, 266]
+              center: [367.0, 133.0]
+              dimensions: [64, 266]
+              radius: 82.5
+
+    frame0282.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [327, 0, 390, 264]
+              center: [358.5, 132.0]
+              dimensions: [63, 264]
+              radius: 81.75
+
+    frame0283.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [326, 0, 386, 260]
+              center: [356.0, 130.0]
+              dimensions: [60, 260]
+              radius: 80.0
+
+    frame0284.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [330, 0, 389, 256]
+              center: [359.5, 128.0]
+              dimensions: [59, 256]
+              radius: 78.75
+
+    frame0285.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [328, 0, 385, 255]
+              center: [356.5, 127.5]
+              dimensions: [57, 255]
+              radius: 78.0
+
+    frame0286.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [315, 0, 370, 257]
+              center: [342.5, 128.5]
+              dimensions: [55, 257]
+              radius: 78.0
+
+    frame0287.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [303, 0, 355, 257]
+              center: [329.0, 128.5]
+              dimensions: [52, 257]
+              radius: 77.25
+
+    frame0288.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [294, 0, 346, 259]
+              center: [320.0, 129.5]
+              dimensions: [52, 259]
+              radius: 77.75
+
+    frame0289.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [290, 0, 341, 262]
+              center: [315.5, 131.0]
+              dimensions: [51, 262]
+              radius: 78.25
+
+    frame0290.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [292, 0, 341, 262]
+              center: [316.5, 131.0]
+              dimensions: [49, 262]
+              radius: 77.75
+
+    frame0291.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [294, 0, 342, 265]
+              center: [318.0, 132.5]
+              dimensions: [48, 265]
+              radius: 78.25
+
+    frame0292.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [295, 0, 343, 265]
+              center: [319.0, 132.5]
+              dimensions: [48, 265]
+              radius: 78.25
+
+    frame0293.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [298, 0, 346, 265]
+              center: [322.0, 132.5]
+              dimensions: [48, 265]
+              radius: 78.25
+
+    frame0294.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [299, 0, 347, 261]
+              center: [323.0, 130.5]
+              dimensions: [48, 261]
+              radius: 77.25
+
+    frame0295.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [302, 0, 350, 248]
+              center: [326.0, 124.0]
+              dimensions: [48, 248]
+              radius: 74.0
+
+    frame0296.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [306, 0, 354, 251]
+              center: [330.0, 125.5]
+              dimensions: [48, 251]
+              radius: 74.75
+
+    frame0297.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [315, 0, 362, 252]
+              center: [338.5, 126.0]
+              dimensions: [47, 252]
+              radius: 74.75
+
+    frame0298.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [328, 0, 373, 251]
+              center: [350.5, 125.5]
+              dimensions: [45, 251]
+              radius: 74.0
+
+    frame0299.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [344, 0, 392, 246]
+              center: [368.0, 123.0]
+              dimensions: [48, 246]
+              radius: 73.5
+
+    frame0300.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [364, 0, 414, 246]
+              center: [389.0, 123.0]
+              dimensions: [50, 246]
+              radius: 74.0
+
+    frame0301.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [382, 0, 436, 246]
+              center: [409.0, 123.0]
+              dimensions: [54, 246]
+              radius: 75.0
+
+    frame0302.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [400, 0, 456, 239]
+              center: [428.0, 119.5]
+              dimensions: [56, 239]
+              radius: 73.75
+
+    frame0303.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [415, 0, 480, 246]
+              center: [447.5, 123.0]
+              dimensions: [65, 246]
+              radius: 77.75
+
+    frame0304.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [439, 0, 504, 246]
+              center: [471.5, 123.0]
+              dimensions: [65, 246]
+              radius: 77.75
+
+    frame0305.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [459, 0, 531, 244]
+              center: [495.0, 122.0]
+              dimensions: [72, 244]
+              radius: 79.0
+
+    frame0306.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [498, 0, 571, 244]
+              center: [534.5, 122.0]
+              dimensions: [73, 244]
+              radius: 79.25
+
+    frame0307.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [583, 0, 636, 244]
+              center: [609.5, 122.0]
+              dimensions: [53, 244]
+              radius: 74.25
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [41, 2, 90, 284]
+              center: [65.5, 143.0]
+              dimensions: [49, 282]
+              radius: 82.75
+
+    frame0308.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [105, 0, 136, 281]
+              center: [120.5, 140.5]
+              dimensions: [31, 281]
+              radius: 78.0
+
+    frame0309.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [115, 0, 150, 281]
+              center: [132.5, 140.5]
+              dimensions: [35, 281]
+              radius: 79.0
+
+    frame0310.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [127, 0, 163, 281]
+              center: [145.0, 140.5]
+              dimensions: [36, 281]
+              radius: 79.25
+
+    frame0311.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [144, 0, 191, 284]
+              center: [167.5, 142.0]
+              dimensions: [47, 284]
+              radius: 82.75
+
+    frame0312.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [179, 0, 221, 281]
+              center: [200.0, 140.5]
+              dimensions: [42, 281]
+              radius: 80.75
+
+    frame0313.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [212, 0, 259, 286]
+              center: [235.5, 143.0]
+              dimensions: [47, 286]
+              radius: 83.25
+
+    frame0314.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [235, 0, 292, 298]
+              center: [263.5, 149.0]
+              dimensions: [57, 298]
+              radius: 88.75
+
+    frame0315.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [203, 0, 275, 293]
+              center: [239.0, 146.5]
+              dimensions: [72, 293]
+              radius: 91.25
+
+    frame0316.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [185, 0, 260, 293]
+              center: [222.5, 146.5]
+              dimensions: [75, 293]
+              radius: 92.0
+
+    frame0317.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [204, 0, 269, 295]
+              center: [236.5, 147.5]
+              dimensions: [65, 295]
+              radius: 90.0
+
+    frame0318.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [268, 0, 322, 306]
+              center: [295.0, 153.0]
+              dimensions: [54, 306]
+              radius: 90.0
+
+    frame0319.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [292, 0, 346, 306]
+              center: [319.0, 153.0]
+              dimensions: [54, 306]
+              radius: 90.0
+
+    frame0320.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [298, 0, 360, 315]
+              center: [329.0, 157.5]
+              dimensions: [62, 315]
+              radius: 94.25
+
+    frame0321.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [307, 0, 374, 325]
+              center: [340.5, 162.5]
+              dimensions: [67, 325]
+              radius: 98.0
+
+    frame0322.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [320, 0, 390, 325]
+              center: [355.0, 162.5]
+              dimensions: [70, 325]
+              radius: 98.75
+
+    frame0323.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [331, 0, 402, 304]
+              center: [366.5, 152.0]
+              dimensions: [71, 304]
+              radius: 93.75
+
+    frame0324.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [349, 0, 426, 302]
+              center: [387.5, 151.0]
+              dimensions: [77, 302]
+              radius: 94.75
+
+    frame0325.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [354, 0, 433, 294]
+              center: [393.5, 147.0]
+              dimensions: [79, 294]
+              radius: 93.25
+
+    frame0326.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [349, 0, 433, 287]
+              center: [391.0, 143.5]
+              dimensions: [84, 287]
+              radius: 92.75
+
+    frame0327.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [357, 0, 433, 282]
+              center: [395.0, 141.0]
+              dimensions: [76, 282]
+              radius: 89.5
+
+    frame0328.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [357, 0, 433, 282]
+              center: [395.0, 141.0]
+              dimensions: [76, 282]
+              radius: 89.5
+
+    frame0329.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [348, 0, 424, 282]
+              center: [386.0, 141.0]
+              dimensions: [76, 282]
+              radius: 89.5
+
+    frame0330.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [351, 0, 427, 278]
+              center: [389.0, 139.0]
+              dimensions: [76, 278]
+              radius: 88.5
+
+    frame0331.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [353, 0, 431, 278]
+              center: [392.0, 139.0]
+              dimensions: [78, 278]
+              radius: 89.0
+
+    frame0332.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [350, 0, 426, 278]
+              center: [388.0, 139.0]
+              dimensions: [76, 278]
+              radius: 88.5
+
+    frame0333.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [345, 0, 426, 286]
+              center: [385.5, 143.0]
+              dimensions: [81, 286]
+              radius: 91.75
+
+    frame0334.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [336, 0, 419, 286]
+              center: [377.5, 143.0]
+              dimensions: [83, 286]
+              radius: 92.25
+
+    frame0335.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [327, 0, 410, 286]
+              center: [368.5, 143.0]
+              dimensions: [83, 286]
+              radius: 92.25
+
+    frame0336.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [322, 0, 401, 279]
+              center: [361.5, 139.5]
+              dimensions: [79, 279]
+              radius: 89.5
+
+    frame0337.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [306, 0, 384, 270]
+              center: [345.0, 135.0]
+              dimensions: [78, 270]
+              radius: 87.0
+
+    frame0338.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [295, 0, 367, 265]
+              center: [331.0, 132.5]
+              dimensions: [72, 265]
+              radius: 84.25
+
+    frame0339.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [288, 0, 358, 264]
+              center: [323.0, 132.0]
+              dimensions: [70, 264]
+              radius: 83.5
+
+    frame0340.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [284, 0, 351, 262]
+              center: [317.5, 131.0]
+              dimensions: [67, 262]
+              radius: 82.25
+
+    frame0341.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [274, 0, 338, 256]
+              center: [306.0, 128.0]
+              dimensions: [64, 256]
+              radius: 80.0
+
+    frame0342.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [263, 0, 320, 244]
+              center: [291.5, 122.0]
+              dimensions: [57, 244]
+              radius: 75.25
+
+    frame0343.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [258, 0, 311, 242]
+              center: [284.5, 121.0]
+              dimensions: [53, 242]
+              radius: 73.75
+
+    frame0344.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [212, 0, 259, 219]
+              center: [235.5, 109.5]
+              dimensions: [47, 219]
+              radius: 66.5
+
+    frame0345.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [199, 0, 247, 230]
+              center: [223.0, 115.0]
+              dimensions: [48, 230]
+              radius: 69.5
+
+    frame0346.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [186, 0, 234, 232]
+              center: [210.0, 116.0]
+              dimensions: [48, 232]
+              radius: 70.0
+
+    frame0347.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [165, 0, 213, 222]
+              center: [189.0, 111.0]
+              dimensions: [48, 222]
+              radius: 67.5
+
+    frame0348.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [153, 0, 196, 209]
+              center: [174.5, 104.5]
+              dimensions: [43, 209]
+              radius: 63.0
+
+    frame0349.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [136, 0, 171, 204]
+              center: [153.5, 102.0]
+              dimensions: [35, 204]
+              radius: 59.75
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [629, 179, 640, 212]
+              center: [634.5, 195.5]
+              dimensions: [11, 33]
+              radius: 11.0
+
+    frame0350.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [596, 60, 640, 198]
+              center: [618.0, 129.0]
+              dimensions: [44, 138]
+              radius: 45.5
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [107, 0, 140, 199]
+              center: [123.5, 99.5]
+              dimensions: [33, 199]
+              radius: 58.0
+
+    frame0351.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [81, 0, 117, 192]
+              center: [99.0, 96.0]
+              dimensions: [36, 192]
+              radius: 57.0
+            - label: "goalpost"
+              present: true
+              verifications: 1
+              bbox: [568, 1, 640, 181]
+              center: [604.0, 91.0]
+              dimensions: [72, 180]
+              radius: 63.0
+
+    frame0352.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [543, 0, 635, 176]
+              center: [589.0, 88.0]
+              dimensions: [92, 176]
+              radius: 67.0
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [60, 1, 95, 182]
+              center: [77.5, 91.5]
+              dimensions: [35, 181]
+              radius: 54.0
+
+    frame0353.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [35, 0, 70, 175]
+              center: [52.5, 87.5]
+              dimensions: [35, 175]
+              radius: 52.5
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [519, 0, 609, 174]
+              center: [564.0, 87.0]
+              dimensions: [90, 174]
+              radius: 66.0
+
+    frame0354.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [506, 0, 596, 174]
+              center: [551.0, 87.0]
+              dimensions: [90, 174]
+              radius: 66.0
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [22, 2, 60, 178]
+              center: [41.0, 90.0]
+              dimensions: [38, 176]
+              radius: 53.5
+
+    frame0355.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [13, 1, 54, 181]
+              center: [33.5, 91.0]
+              dimensions: [41, 180]
+              radius: 55.25
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [498, 1, 586, 176]
+              center: [542.0, 88.5]
+              dimensions: [88, 175]
+              radius: 65.75
+
+    frame0356.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [495, 0, 582, 170]
+              center: [538.5, 85.0]
+              dimensions: [87, 170]
+              radius: 64.25
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [12, 1, 53, 186]
+              center: [32.5, 93.5]
+              dimensions: [41, 185]
+              radius: 56.5
+
+    frame0357.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [2, 0, 43, 189]
+              center: [22.5, 94.5]
+              dimensions: [41, 189]
+              radius: 57.5
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [486, 1, 571, 174]
+              center: [528.5, 87.5]
+              dimensions: [85, 173]
+              radius: 64.5
+
+    frame0358.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [481, 0, 562, 170]
+              center: [521.5, 85.0]
+              dimensions: [81, 170]
+              radius: 62.75
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [1, 0, 41, 195]
+              center: [21.0, 97.5]
+              dimensions: [40, 195]
+              radius: 58.75
+
+    frame0359.jpg:
+        dimensions: [640, 360]
+        num_annotations: 2
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [1, 0, 49, 195]
+              center: [25.0, 97.5]
+              dimensions: [48, 195]
+              radius: 60.75
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [490, 1, 569, 174]
+              center: [529.5, 87.5]
+              dimensions: [79, 173]
+              radius: 63.0
+
+    frame0360.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [321, 1, 490, 359]
+              center: [405.5, 180.0]
+              dimensions: [169, 358]
+              radius: 131.75
+
+    frame0361.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [321, 0, 490, 359]
+              center: [405.5, 179.5]
+              dimensions: [169, 359]
+              radius: 132.0
+
+    frame0362.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [324, 0, 493, 359]
+              center: [408.5, 179.5]
+              dimensions: [169, 359]
+              radius: 132.0
+
+    frame0363.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [328, 0, 494, 359]
+              center: [411.0, 179.5]
+              dimensions: [166, 359]
+              radius: 131.25
+
+    frame0364.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [316, 0, 482, 359]
+              center: [399.0, 179.5]
+              dimensions: [166, 359]
+              radius: 131.25
+
+    frame0365.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [311, 0, 465, 359]
+              center: [388.0, 179.5]
+              dimensions: [154, 359]
+              radius: 128.25
+
+    frame0366.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [311, 0, 465, 359]
+              center: [388.0, 179.5]
+              dimensions: [154, 359]
+              radius: 128.25
+
+    frame0367.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [320, 0, 471, 359]
+              center: [395.5, 179.5]
+              dimensions: [151, 359]
+              radius: 127.5
+
+    frame0368.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [329, 0, 483, 359]
+              center: [406.0, 179.5]
+              dimensions: [154, 359]
+              radius: 128.25
+
+    frame0369.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [329, 0, 478, 359]
+              center: [403.5, 179.5]
+              dimensions: [149, 359]
+              radius: 127.0
+
+    frame0370.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [331, 0, 472, 359]
+              center: [401.5, 179.5]
+              dimensions: [141, 359]
+              radius: 125.0
+
+    frame0371.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [322, 0, 447, 359]
+              center: [384.5, 179.5]
+              dimensions: [125, 359]
+              radius: 121.0
+
+    frame0372.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [319, 0, 442, 359]
+              center: [380.5, 179.5]
+              dimensions: [123, 359]
+              radius: 120.5
+
+    frame0373.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [323, 0, 462, 359]
+              center: [392.5, 179.5]
+              dimensions: [139, 359]
+              radius: 124.5
+
+    frame0374.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [318, 0, 466, 359]
+              center: [392.0, 179.5]
+              dimensions: [148, 359]
+              radius: 126.75
+
+    frame0375.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [312, 0, 456, 358]
+              center: [384.0, 179.0]
+              dimensions: [144, 358]
+              radius: 125.5
+
+    frame0376.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [290, 0, 431, 358]
+              center: [360.5, 179.0]
+              dimensions: [141, 358]
+              radius: 124.75
+
+    frame0377.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [238, 0, 427, 359]
+              center: [332.5, 179.5]
+              dimensions: [189, 359]
+              radius: 137.0
+
+    frame0378.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [240, 0, 438, 359]
+              center: [339.0, 179.5]
+              dimensions: [198, 359]
+              radius: 139.25
+
+    frame0379.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [287, 0, 478, 359]
+              center: [382.5, 179.5]
+              dimensions: [191, 359]
+              radius: 137.5
+
+    frame0380.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [273, 0, 460, 359]
+              center: [366.5, 179.5]
+              dimensions: [187, 359]
+              radius: 136.5
+
+    frame0381.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [252, 0, 424, 359]
+              center: [338.0, 179.5]
+              dimensions: [172, 359]
+              radius: 132.75
+
+    frame0382.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 3
+              bbox: [247, 0, 432, 359]
+              center: [339.5, 179.5]
+              dimensions: [185, 359]
+              radius: 136.0
+
+    frame0383.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [242, 0, 425, 359]
+              center: [333.5, 179.5]
+              dimensions: [183, 359]
+              radius: 135.5
+
+    frame0384.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [241, 0, 415, 359]
+              center: [328.0, 179.5]
+              dimensions: [174, 359]
+              radius: 133.25
+
+    frame0385.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [243, 0, 421, 359]
+              center: [332.0, 179.5]
+              dimensions: [178, 359]
+              radius: 134.25
+
+    frame0386.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [263, 0, 441, 359]
+              center: [352.0, 179.5]
+              dimensions: [178, 359]
+              radius: 134.25
+
+    frame0387.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [275, 0, 453, 359]
+              center: [364.0, 179.5]
+              dimensions: [178, 359]
+              radius: 134.25
+
+    frame0388.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [275, 0, 460, 359]
+              center: [367.5, 179.5]
+              dimensions: [185, 359]
+              radius: 136.0
+
+    frame0389.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [277, 0, 457, 359]
+              center: [367.0, 179.5]
+              dimensions: [180, 359]
+              radius: 134.75
+
+    frame0390.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [273, 0, 445, 359]
+              center: [359.0, 179.5]
+              dimensions: [172, 359]
+              radius: 132.75
+
+    frame0391.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [263, 0, 435, 359]
+              center: [349.0, 179.5]
+              dimensions: [172, 359]
+              radius: 132.75
+
+    frame0392.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [254, 0, 415, 359]
+              center: [334.5, 179.5]
+              dimensions: [161, 359]
+              radius: 130.0
+
+    frame0393.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [251, 0, 405, 359]
+              center: [328.0, 179.5]
+              dimensions: [154, 359]
+              radius: 128.25
+
+    frame0394.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [254, 0, 419, 359]
+              center: [336.5, 179.5]
+              dimensions: [165, 359]
+              radius: 131.0
+
+    frame0395.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [260, 0, 425, 359]
+              center: [342.5, 179.5]
+              dimensions: [165, 359]
+              radius: 131.0
+
+    frame0396.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [255, 0, 420, 359]
+              center: [337.5, 179.5]
+              dimensions: [165, 359]
+              radius: 131.0
+
+    frame0397.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [236, 0, 395, 359]
+              center: [315.5, 179.5]
+              dimensions: [159, 359]
+              radius: 129.5
+
+    frame0398.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [227, 0, 384, 358]
+              center: [305.5, 179.0]
+              dimensions: [157, 358]
+              radius: 128.75
+
+    frame0399.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [227, 0, 384, 358]
+              center: [305.5, 179.0]
+              dimensions: [157, 358]
+              radius: 128.75
+
+    frame0400.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [237, 0, 393, 358]
+              center: [315.0, 179.0]
+              dimensions: [156, 358]
+              radius: 128.5
+
+    frame0401.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [265, 0, 432, 358]
+              center: [348.5, 179.0]
+              dimensions: [167, 358]
+              radius: 131.25
+
+    frame0402.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [260, 0, 432, 358]
+              center: [346.0, 179.0]
+              dimensions: [172, 358]
+              radius: 132.5
+
+    frame0403.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [211, 0, 375, 358]
+              center: [293.0, 179.0]
+              dimensions: [164, 358]
+              radius: 130.5
+
+    frame0404.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [128, 0, 282, 357]
+              center: [205.0, 178.5]
+              dimensions: [154, 357]
+              radius: 127.75
+
+    frame0405.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [42, 1, 175, 357]
+              center: [108.5, 179.0]
+              dimensions: [133, 356]
+              radius: 122.25
+
+    frame0406.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [0, 0, 60, 359]
+              center: [30.0, 179.5]
+              dimensions: [60, 359]
+              radius: 104.75
+
+    frame0407.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0408.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0409.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0410.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0411.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0412.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0413.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0414.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0415.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [628, 294, 640, 337]
+              center: [634.0, 315.5]
+              dimensions: [12, 43]
+              radius: 13.75
+
+    frame0416.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [565, 124, 640, 323]
+              center: [602.5, 223.5]
+              dimensions: [75, 199]
+              radius: 68.5
+
+    frame0417.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [513, 1, 638, 311]
+              center: [575.5, 156.0]
+              dimensions: [125, 310]
+              radius: 108.75
+
+    frame0418.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [465, 0, 593, 294]
+              center: [529.0, 147.0]
+              dimensions: [128, 294]
+              radius: 105.5
+
+    frame0419.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [425, 0, 536, 286]
+              center: [480.5, 143.0]
+              dimensions: [111, 286]
+              radius: 99.25
+
+    frame0420.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [391, 0, 492, 285]
+              center: [441.5, 142.5]
+              dimensions: [101, 285]
+              radius: 96.5
+
+    frame0421.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [355, 0, 446, 283]
+              center: [400.5, 141.5]
+              dimensions: [91, 283]
+              radius: 93.5
+
+    frame0422.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [326, 0, 405, 283]
+              center: [365.5, 141.5]
+              dimensions: [79, 283]
+              radius: 90.5
+
+    frame0423.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [309, 0, 374, 299]
+              center: [341.5, 149.5]
+              dimensions: [65, 299]
+              radius: 91.0
+
+    frame0424.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [300, 0, 357, 303]
+              center: [328.5, 151.5]
+              dimensions: [57, 303]
+              radius: 90.0
+
+    frame0425.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [283, 0, 344, 290]
+              center: [313.5, 145.0]
+              dimensions: [61, 290]
+              radius: 87.75
+
+    frame0426.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [274, 0, 334, 291]
+              center: [304.0, 145.5]
+              dimensions: [60, 291]
+              radius: 87.75
+
+    frame0427.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [280, 0, 330, 301]
+              center: [305.0, 150.5]
+              dimensions: [50, 301]
+              radius: 87.75
+
+    frame0428.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [279, 0, 325, 306]
+              center: [302.0, 153.0]
+              dimensions: [46, 306]
+              radius: 88.0
+
+    frame0429.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [279, 0, 325, 306]
+              center: [302.0, 153.0]
+              dimensions: [46, 306]
+              radius: 88.0
+
+    frame0430.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [285, 0, 323, 306]
+              center: [304.0, 153.0]
+              dimensions: [38, 306]
+              radius: 86.0
+
+    frame0431.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [291, 0, 327, 299]
+              center: [309.0, 149.5]
+              dimensions: [36, 299]
+              radius: 83.75
+
+    frame0432.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [301, 0, 339, 294]
+              center: [320.0, 147.0]
+              dimensions: [38, 294]
+              radius: 83.0
+
+    frame0433.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [310, 0, 351, 292]
+              center: [330.5, 146.0]
+              dimensions: [41, 292]
+              radius: 83.25
+
+    frame0434.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [322, 0, 371, 290]
+              center: [346.5, 145.0]
+              dimensions: [49, 290]
+              radius: 84.75
+
+    frame0435.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [344, 0, 393, 302]
+              center: [368.5, 151.0]
+              dimensions: [49, 302]
+              radius: 87.75
+
+    frame0436.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [366, 0, 415, 302]
+              center: [390.5, 151.0]
+              dimensions: [49, 302]
+              radius: 87.75
+
+    frame0437.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [382, 0, 437, 305]
+              center: [409.5, 152.5]
+              dimensions: [55, 305]
+              radius: 90.0
+
+    frame0438.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [398, 0, 464, 321]
+              center: [431.0, 160.5]
+              dimensions: [66, 321]
+              radius: 96.75
+
+    frame0439.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [412, 0, 478, 321]
+              center: [445.0, 160.5]
+              dimensions: [66, 321]
+              radius: 96.75
+
+    frame0440.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [436, 0, 502, 324]
+              center: [469.0, 162.0]
+              dimensions: [66, 324]
+              radius: 97.5
+
+    frame0441.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [473, 0, 547, 328]
+              center: [510.0, 164.0]
+              dimensions: [74, 328]
+              radius: 100.5
+
+    frame0442.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [518, 0, 608, 348]
+              center: [563.0, 174.0]
+              dimensions: [90, 348]
+              radius: 109.5
+
+    frame0443.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [565, 0, 636, 357]
+              center: [600.5, 178.5]
+              dimensions: [71, 357]
+              radius: 107.0
+
+    frame0444.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0445.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0446.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0447.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0448.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0449.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0450.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0451.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: false
+
+
+    frame0452.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [0, 59, 69, 359]
+              center: [34.5, 209.0]
+              dimensions: [69, 300]
+              radius: 92.25
+
+    frame0453.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [2, 2, 135, 359]
+              center: [68.5, 180.5]
+              dimensions: [133, 357]
+              radius: 122.5
+
+    frame0454.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [49, 2, 188, 359]
+              center: [118.5, 180.5]
+              dimensions: [139, 357]
+              radius: 124.0
+
+    frame0455.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [119, 1, 236, 359]
+              center: [177.5, 180.0]
+              dimensions: [117, 358]
+              radius: 118.75
+
+    frame0456.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [183, 0, 287, 359]
+              center: [235.0, 179.5]
+              dimensions: [104, 359]
+              radius: 115.75
+
+    frame0457.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [231, 0, 335, 359]
+              center: [283.0, 179.5]
+              dimensions: [104, 359]
+              radius: 115.75
+
+    frame0458.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [277, 0, 381, 359]
+              center: [329.0, 179.5]
+              dimensions: [104, 359]
+              radius: 115.75
+
+    frame0459.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [310, 1, 439, 359]
+              center: [374.5, 180.0]
+              dimensions: [129, 358]
+              radius: 121.75
+
+    frame0460.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [334, 0, 474, 359]
+              center: [404.0, 179.5]
+              dimensions: [140, 359]
+              radius: 124.75
+
+    frame0461.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [368, 0, 535, 359]
+              center: [451.5, 179.5]
+              dimensions: [167, 359]
+              radius: 131.5
+
+    frame0462.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [394, 0, 565, 359]
+              center: [479.5, 179.5]
+              dimensions: [171, 359]
+              radius: 132.5
+
+    frame0463.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [412, 0, 608, 359]
+              center: [510.0, 179.5]
+              dimensions: [196, 359]
+              radius: 138.75
+
+    frame0464.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [426, 0, 631, 359]
+              center: [528.5, 179.5]
+              dimensions: [205, 359]
+              radius: 141.0
+
+    frame0465.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [430, 1, 636, 359]
+              center: [533.0, 180.0]
+              dimensions: [206, 358]
+              radius: 141.0
+
+    frame0466.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [426, 0, 632, 359]
+              center: [529.0, 179.5]
+              dimensions: [206, 359]
+              radius: 141.25
+
+    frame0467.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [405, 0, 589, 358]
+              center: [497.0, 179.0]
+              dimensions: [184, 358]
+              radius: 135.5
+
+    frame0468.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [395, 0, 572, 358]
+              center: [483.5, 179.0]
+              dimensions: [177, 358]
+              radius: 133.75
+
+    frame0469.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [380, 0, 550, 358]
+              center: [465.0, 179.0]
+              dimensions: [170, 358]
+              radius: 132.0
+
+    frame0470.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [362, 0, 507, 358]
+              center: [434.5, 179.0]
+              dimensions: [145, 358]
+              radius: 125.75
+
+    frame0471.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [349, 0, 480, 360]
+              center: [414.5, 180.0]
+              dimensions: [131, 360]
+              radius: 122.75
+
+    frame0472.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [335, 0, 451, 360]
+              center: [393.0, 180.0]
+              dimensions: [116, 360]
+              radius: 119.0
+
+    frame0473.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [329, 0, 441, 360]
+              center: [385.0, 180.0]
+              dimensions: [112, 360]
+              radius: 118.0
+
+    frame0474.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [329, 0, 436, 360]
+              center: [382.5, 180.0]
+              dimensions: [107, 360]
+              radius: 116.75
+
+    frame0475.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [340, 0, 447, 360]
+              center: [393.5, 180.0]
+              dimensions: [107, 360]
+              radius: 116.75
+
+    frame0476.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [355, 0, 464, 360]
+              center: [409.5, 180.0]
+              dimensions: [109, 360]
+              radius: 117.25
+
+    frame0477.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [355, 0, 468, 360]
+              center: [411.5, 180.0]
+              dimensions: [113, 360]
+              radius: 118.25
+
+    frame0478.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [351, 0, 464, 360]
+              center: [407.5, 180.0]
+              dimensions: [113, 360]
+              radius: 118.25
+
+    frame0479.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [349, 0, 459, 360]
+              center: [404.0, 180.0]
+              dimensions: [110, 360]
+              radius: 117.5
+
+    frame0480.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [345, 0, 455, 360]
+              center: [400.0, 180.0]
+              dimensions: [110, 360]
+              radius: 117.5
+
+    frame0481.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [343, 0, 453, 360]
+              center: [398.0, 180.0]
+              dimensions: [110, 360]
+              radius: 117.5
+
+    frame0482.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [341, 0, 451, 360]
+              center: [396.0, 180.0]
+              dimensions: [110, 360]
+              radius: 117.5
+
+    frame0483.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [341, 0, 451, 360]
+              center: [396.0, 180.0]
+              dimensions: [110, 360]
+              radius: 117.5
+
+    frame0484.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [341, 0, 448, 360]
+              center: [394.5, 180.0]
+              dimensions: [107, 360]
+              radius: 116.75
+
+    frame0485.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [341, 0, 443, 360]
+              center: [392.0, 180.0]
+              dimensions: [102, 360]
+              radius: 115.5
+
+    frame0486.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [344, 0, 446, 360]
+              center: [395.0, 180.0]
+              dimensions: [102, 360]
+              radius: 115.5
+
+    frame0487.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [339, 0, 442, 360]
+              center: [390.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0488.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [334, 0, 437, 360]
+              center: [385.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0489.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [334, 0, 437, 360]
+              center: [385.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0490.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [334, 0, 437, 360]
+              center: [385.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0491.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [334, 0, 437, 360]
+              center: [385.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0492.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [334, 0, 437, 360]
+              center: [385.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0493.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [334, 0, 437, 360]
+              center: [385.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0494.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [334, 0, 437, 360]
+              center: [385.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0495.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [327, 0, 430, 360]
+              center: [378.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0496.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [322, 0, 425, 360]
+              center: [373.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0497.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [320, 0, 423, 360]
+              center: [371.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0498.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [320, 0, 423, 360]
+              center: [371.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0499.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [320, 0, 423, 360]
+              center: [371.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0500.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [320, 0, 423, 360]
+              center: [371.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0501.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [323, 0, 423, 360]
+              center: [373.0, 180.0]
+              dimensions: [100, 360]
+              radius: 115.0
+
+    frame0502.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [319, 0, 419, 360]
+              center: [369.0, 180.0]
+              dimensions: [100, 360]
+              radius: 115.0
+
+    frame0503.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [317, 0, 420, 360]
+              center: [368.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0504.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [318, 0, 421, 360]
+              center: [369.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0505.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [318, 0, 421, 360]
+              center: [369.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0506.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [313, 0, 416, 360]
+              center: [364.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0507.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [309, 0, 412, 360]
+              center: [360.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0508.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [305, 0, 408, 360]
+              center: [356.5, 180.0]
+              dimensions: [103, 360]
+              radius: 115.75
+
+    frame0509.jpg:
+        dimensions: [640, 360]
+        num_annotations: 1
+        annotations:
+            - label: "goalpost"
+              present: true
+              verifications: 2
+              bbox: [305, 0, 408, 359]
+              center: [356.5, 179.5]
+              dimensions: [103, 359]
+              radius: 115.5
+
