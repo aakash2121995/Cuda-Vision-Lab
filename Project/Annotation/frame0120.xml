@@ -1,7 +1,7 @@
 <annotation>
 	<folder>RosData</folder>
 	<filename>frame0120.jpg</filename>
-	<path>C:\Users\nitty\Desktop\RosData\frame0120.jpg</path>
+	<path>/Users/suhailamp/Desktop/MS2/CudaVision/Cuda-Vision-Lab/Project/RosData/frame0120.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,24 +14,24 @@
 	<object>
 		<name>goalpost</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>287</xmin>
-			<ymin>1</ymin>
-			<xmax>395</xmax>
-			<ymax>82</ymax>
+			<xmin>372</xmin>
+			<ymin>62</ymin>
+			<xmax>401</xmax>
+			<ymax>89</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>robot</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>75</xmin>
-			<ymin>1</ymin>
-			<xmax>393</xmax>
+			<xmin>200</xmin>
+			<ymin>264</ymin>
+			<xmax>334</xmax>
 			<ymax>363</ymax>
 		</bndbox>
 	</object>
