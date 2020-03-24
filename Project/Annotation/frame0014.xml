@@ -36,15 +36,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>goalpost</name>
+		<name>robot</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>83</xmin>
-			<ymin>150</ymin>
-			<xmax>112</xmax>
-			<ymax>179</ymax>
+			<xmin>125</xmin>
+			<ymin>146</ymin>
+			<xmax>148</xmax>
+			<ymax>170</ymax>
 		</bndbox>
 	</object>
 </annotation>

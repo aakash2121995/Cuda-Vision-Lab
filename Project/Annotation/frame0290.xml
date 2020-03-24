@@ -17,10 +17,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>338</xmin>
-			<ymin>299</ymin>
-			<xmax>636</xmax>
+			<xmin>342</xmin>
+			<ymin>430</ymin>
+			<xmax>419</xmax>
 			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>goalpost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>123</ymin>
+			<xmax>452</xmax>
+			<ymax>150</ymax>
 		</bndbox>
 	</object>
 </annotation>

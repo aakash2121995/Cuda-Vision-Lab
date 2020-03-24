@@ -29,18 +29,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>262</xmin>
-			<ymin>44</ymin>
-			<xmax>283</xmax>
-			<ymax>66</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>goalpost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>411</xmin>
 			<ymin>64</ymin>
 			<xmax>441</xmax>

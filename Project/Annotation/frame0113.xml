@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>goalpost</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>372</xmin>
-			<ymin>55</ymin>
-			<xmax>392</xmax>
-			<ymax>86</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>ball</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -41,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>186</xmin>
-			<ymin>275</ymin>
-			<xmax>326</xmax>
+			<xmin>234</xmin>
+			<ymin>324</ymin>
+			<xmax>316</xmax>
 			<ymax>379</ymax>
 		</bndbox>
 	</object>

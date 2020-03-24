@@ -35,4 +35,16 @@
 			<ymax>284</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>goalpost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>150</ymin>
+			<xmax>49</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
 </annotation>
